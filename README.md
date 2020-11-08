@@ -1,2 +1,2 @@
-# Brunswick
-Brunswick team repo
+# Team Brunswick (Louis Labuzienski and Harrison Yelton)
+

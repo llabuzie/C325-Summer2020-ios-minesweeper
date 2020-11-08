@@ -1,1 +1,1 @@
-# C325-Summer2020-ios-minesweeper-clone
+# C325-Summer2020-ios-minesweeper
